@@ -1,2 +1,3 @@
-# nhathuymobile
-Project ReactJS01
+Project này học về : 
+- Props
+- State
