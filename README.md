@@ -1,3 +1,3 @@
-Project này học về : 
+Project ReactJS này học về : 
 - Props
 - State
